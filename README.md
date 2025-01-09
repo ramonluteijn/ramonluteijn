@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Ramon and I'm a Junior softwaredeveloper from the Netherlands.</h2>
-
 ###
 
 <div align="left">
